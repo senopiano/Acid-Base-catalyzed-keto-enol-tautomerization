@@ -4,5 +4,6 @@ In this project, the reactant is acetone and the product is enol.
 ## Acid-catalyzed-keto-enol-tautomerization
 The whole process includes two processes. The first step is proton transfering between acid and acetone. The second step is acetone deprotonation. The whole process is shown as below.
 
-![image](Acid mechanism.png)
+![image](https://github.com/senopiano/Acid-Base-catalyzed-keto-enol-tautomerization/blob/main/Acid%20mechanism.png)
+
 After conducting the optimization of acetone and hydronium, transition state search is done. One structure is searched. However, later we did an IRC scan but the transition state is only validated as the maximum value between two conformations. Then we did flexible scanning, setting the distance between -H and -O as redundant internal coordinates. Finally we found this step doesn't have TS.
