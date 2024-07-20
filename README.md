@@ -6,4 +6,4 @@ The whole process includes two processes. The first step is proton transfering b
 
 ![image](https://github.com/senopiano/Acid-Base-catalyzed-keto-enol-tautomerization/blob/main/Acid%20mechanism.png)
 
-After conducting the optimization of acetone and hydronium, transition state search is done. One structure is searched. However, later we did an IRC scan but the transition state is only validated as the maximum value between two conformations. Then we did flexible scanning, setting the distance between -H and -O as redundant internal coordinates. Finally we found this step doesn't have TS.
+After conducting the optimization of acetone and hydronium, transition state search is done. One structure is searched. However, later we did an IRC scan but the transition state is only validated as the maximum value between two conformations. Then we did flexible scanning, setting the distance between -H and -O as redundant internal coordinates. Finally we found this step doesn't have TS. Also, when we
