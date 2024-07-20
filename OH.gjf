@@ -1,0 +1,10 @@
+%nprocshared=32
+%chk=OH.chk
+# opt freq b3lyp/6-31+g(d) scrf empiricaldispersion=gd3bj
+
+vcxbxcvbxcv
+
+-1 1
+ O                 -2.13438735    1.07707508    0.00000000
+ H                 -1.17438735    1.07707508    0.00000000
+

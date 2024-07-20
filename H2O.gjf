@@ -1,0 +1,11 @@
+%nprocshared=32
+%chk=H2O.chk
+# b3lyp/6-31+g(d) opt freq scrf empiricaldispersion=gd3bj
+
+Title
+
+0 1
+ O                 -0.55468750    0.18750000    0.00000000
+ H                  0.40531250    0.18750000    0.00000000
+ H                 -0.87514208    1.09243583    0.00000000
+
